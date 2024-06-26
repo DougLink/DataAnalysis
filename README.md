@@ -1,5 +1,5 @@
 [![author](https://img.shields.io/badge/author-DougLink-red.svg)](https://www.linkedin.com/in/douglas-dezordi-link-813b86170/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
-  <img src="DA banner.png" >
+  <img src="DA banner.jpg" >
 </p>
 
 # Douglas Link
