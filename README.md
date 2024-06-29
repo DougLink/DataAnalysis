@@ -4,6 +4,7 @@
 
 # Douglas Link
 <sub>*Data Analyst*</sub>
+</p>
 
 Analytical and detail-oriented professional with extensive experience in administration roles. A keen problem solver and highly efficient individual, pursuing a career change as a Data Analyst.</p>
 Recent Graduate with a BSc in Computing.
