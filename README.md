@@ -5,9 +5,8 @@
 # Douglas Link
 <sub>*Data Analyst*</sub>
 
-As a professional, I combine analytical skills and attention to detail. Working for several years as an Administrator I developed my critical thinking and problem-solving skills, and this set of skills influenced me to pursue Data Analysis when I decided on a career change.
-
-I am a Computing Technologies graduate at Solent University (UK).
+Analytical and detail-oriented professional with extensive experience in administration roles. A keen problem solver and highly efficient individual, pursuing a career change as a Data Analyst.
+Recent Graduate with a BSc in Computing.
 
 **Background in:** Excel, SQL and Python. 
 
