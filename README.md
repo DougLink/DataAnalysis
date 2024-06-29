@@ -12,3 +12,8 @@ Recent Graduate with a BSc in Computing.
 
 **Links:**
 * [LinkedIn](https://bit.ly/3pjKRMo)
+
+##[Excel Projects](https://github.com/DougLink/DataAnalysis/tree/main/Excel)
+
+###This folder focuses on projects demonstrating Excel skills to create Dashboards and Visualisations that tell a story
+
