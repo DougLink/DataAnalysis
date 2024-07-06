@@ -22,10 +22,11 @@ Dashboard solutions for data-driven business decisions
 **Improved Visualisations:** </p>
 Data visualisations that leverage context, attention focus and design concepts to tell a story
 
-* [Audit Data - Visual Improvememnt](https://github.com/DougLink/DataAnalysis/blob/main/Excel/Audit%20Data.xlsx)
-* [Bank Index Data - Visual Improvememnt](https://github.com/DougLink/DataAnalysis/blob/main/Excel/Bank%20Index%20Data.xlsx)
-* [Feature Z Ads Data - Visual Improvememnt](https://github.com/DougLink/DataAnalysis/blob/main/Excel/Feature%20Z%20Ads%20Data.xlsx)
-* [Payment Automation Data - Visual Improvememnt](https://github.com/DougLink/DataAnalysis/blob/main/Excel/Payment%20Automation%20Data.xlsx)
-* [Science Survey Data - Visual Improvememnt](https://github.com/DougLink/DataAnalysis/blob/main/Excel/Science%20Survey%20Data.xlsx)
+* [Audit Data - Visual Improvement](https://github.com/DougLink/DataAnalysis/blob/main/Excel/Audit%20Data.xlsx)
+* [Bank Index Data - Visual Improvement](https://github.com/DougLink/DataAnalysis/blob/main/Excel/Bank%20Index%20Data.xlsx)
+* [Feature Z Ads Data - Visual Improvement](https://github.com/DougLink/DataAnalysis/blob/main/Excel/Feature%20Z%20Ads%20Data.xlsx)
+* [Payment Automation Data - Visual Improvement](https://github.com/DougLink/DataAnalysis/blob/main/Excel/Payment%20Automation%20Data.xlsx)
+* [Science Survey Data - Visual Improvement](https://github.com/DougLink/DataAnalysis/blob/main/Excel/Science%20Survey%20Data.xlsx)
 <img src="https://github.com/DougLink/DataAnalysis/blob/main/images/Science%20Survey%20-%20Improved.png" >
-* [Time to Close Deal Data - Visual Improvememnt](https://github.com/DougLink/DataAnalysis/blob/main/Excel/Time%20to%20Close%20Deal%20Data.xlsx)
+
+* [Time to Close Deal Data - Visual Improvement](https://github.com/DougLink/DataAnalysis/blob/main/Excel/Time%20to%20Close%20Deal%20Data.xlsx)
