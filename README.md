@@ -12,4 +12,7 @@ Recent Graduate with a BSc in Computing.
 **Links:**
 * [LinkedIn](https://bit.ly/3pjKRMo)
 
+## Excel Projects:
+
+* [Coffee Shop Sales Dashboard](https://github.com/DougLink/DataAnalysis/blob/main/Excel/Coffee%20Shop%20Sales%20-%20Dashboard.xlsx)
 
