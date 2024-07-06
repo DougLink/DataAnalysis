@@ -20,7 +20,7 @@ Dashboard solutions for data-driven business decisions
 * [Coffee Shop Sales Dashboard](https://github.com/DougLink/DataAnalysis/blob/main/Excel/Coffee%20Shop%20Sales%20-%20Dashboard.xlsx)
 
 **Improved Visualisations:** </p>
-Data visualisations that leverage context, appropriate visuals, attention focus and design concepts to tell a story
+Data visualisations that leverage context, attention focus and design concepts to tell a story
 
 * [Audit Data - Visual Improvememnt](https://github.com/DougLink/DataAnalysis/blob/main/Excel/Audit%20Data.xlsx)
 * [Bank Index Data - Visual Improvememnt](https://github.com/DougLink/DataAnalysis/blob/main/Excel/Bank%20Index%20Data.xlsx)
