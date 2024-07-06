@@ -14,7 +14,7 @@ Recent Graduate with a BSc in Computing.
 
 ## Excel Projects:
 
-**Dashboards:**
+**Dashboards:**</p>
 Dashboard solutions for data-driven business decisions 
 
 * [Coffee Shop Sales Dashboard](https://github.com/DougLink/DataAnalysis/blob/main/Excel/Coffee%20Shop%20Sales%20-%20Dashboard.xlsx)
