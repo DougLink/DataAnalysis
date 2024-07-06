@@ -14,5 +14,13 @@ Recent Graduate with a BSc in Computing.
 
 ## Excel Projects:
 
+**Dashboards:**
 * [Coffee Shop Sales Dashboard](https://github.com/DougLink/DataAnalysis/blob/main/Excel/Coffee%20Shop%20Sales%20-%20Dashboard.xlsx)
 
+**Improved Visualisations:**
+* [Audit Data Visual Improvememnt](https://github.com/DougLink/DataAnalysis/blob/main/Excel/Audit%20Data.xlsx)
+* [Bank Index Data Visual Improvememnt](https://github.com/DougLink/DataAnalysis/blob/main/Excel/Bank%20Index%20Data.xlsx)
+* [Feature Z Ads Data Visual Improvememnt](https://github.com/DougLink/DataAnalysis/blob/main/Excel/Feature%20Z%20Ads%20Data.xlsx)
+* [Payment Automation Data Visual Improvememnt](https://github.com/DougLink/DataAnalysis/blob/main/Excel/Payment%20Automation%20Data.xlsx)
+* [Science Survey Data Visual Improvememnt](https://github.com/DougLink/DataAnalysis/blob/main/Excel/Science%20Survey%20Data.xlsx)
+* [Time to Close Deal Data Visual Improvememnt](https://github.com/DougLink/DataAnalysis/blob/main/Excel/Time%20to%20Close%20Deal%20Data.xlsx)
