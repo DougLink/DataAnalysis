@@ -17,7 +17,8 @@ Recent Graduate with a BSc in Computing.
 **Dashboards:** </p>
 Dashboard solutions for data-driven business decisions 
 
-* [Coffee Shop Sales - Dashboard](https://github.com/DougLink/DataAnalysis/blob/main/Excel/Coffee%20Shop%20Sales%20-%20Dashboard.xlsx)
+* [Home Brew Sales - Dashboard](https://github.com/DougLink/DataAnalysis/blob/main/Excel/Coffee%20Shop%20Sales%20-%20Dashboard.xlsx)
+<img src="https://github.com/DougLink/DataAnalysis/blob/main/images/Home%20Brew%20Dashboard.jpg" >
 
 **Improved Visualisations:** </p>
 Data visualisations that leverage context, attention focus and design concepts to tell a story
@@ -26,9 +27,16 @@ Data visualisations that leverage context, attention focus and design concepts t
 <img src="https://github.com/DougLink/DataAnalysis/blob/main/images/Audit%20-%20Improved1.jpg" >
 
 * [Bank Index Data - Visual Improvement](https://github.com/DougLink/DataAnalysis/blob/main/Excel/Bank%20Index%20Data.xlsx)
+<img src="https://github.com/DougLink/DataAnalysis/blob/main/images/Bank%20Index%20-%20Improved.jpg" >
+
 * [Feature Z Ads Data - Visual Improvement](https://github.com/DougLink/DataAnalysis/blob/main/Excel/Feature%20Z%20Ads%20Data.xlsx)
+<img src="https://github.com/DougLink/DataAnalysis/blob/main/images/Feature%20Z%20Ads%20-%20Improved.jpg" >
+
 * [Payment Automation Data - Visual Improvement](https://github.com/DougLink/DataAnalysis/blob/main/Excel/Payment%20Automation%20Data.xlsx)
+<img src="https://github.com/DougLink/DataAnalysis/blob/main/images/Payment%20Automation%20-%20Improved.jpg" >
+
 * [Science Survey Data - Visual Improvement](https://github.com/DougLink/DataAnalysis/blob/main/Excel/Science%20Survey%20Data.xlsx)
 <img src="https://github.com/DougLink/DataAnalysis/blob/main/images/Science%20Survey%20-%20Improved.png" >
 
 * [Time to Close Deal Data - Visual Improvement](https://github.com/DougLink/DataAnalysis/blob/main/Excel/Time%20to%20Close%20Deal%20Data.xlsx)
+<img src="https://github.com/DougLink/DataAnalysis/blob/main/images/Time%20to%20Close%20Deal%20-%20Improved.jpg" >
