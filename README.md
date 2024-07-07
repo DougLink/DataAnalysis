@@ -24,7 +24,7 @@ Dashboard solutions for data-driven business decisions
 Data visualisations that leverage context, attention focus and design concepts to tell a story
 
 * [Audit Data - Visual Improvement](https://github.com/DougLink/DataAnalysis/blob/main/Excel/Audit%20Data.xlsx)
-<img src="https://github.com/DougLink/DataAnalysis/blob/main/images/Audit%20-%20Improved1.jpg" >
+<img src="https://github.com/DougLink/DataAnalysis/blob/main/images/Audit%20-%20Improved.jpg" >
 
 * [Bank Index Data - Visual Improvement](https://github.com/DougLink/DataAnalysis/blob/main/Excel/Bank%20Index%20Data.xlsx)
 <img src="https://github.com/DougLink/DataAnalysis/blob/main/images/Bank%20Index%20-%20Improved.jpg" >
