@@ -43,8 +43,14 @@ Data visualisations that leverage context, attention focus and design concepts t
 
 ## SQL Databases:
 
+**Database Design:** </p>
+Entity Relationship Design (ERD) for databases
+
+* MySports Database ERD
+<img src="https://github.com/DougLink/DataAnalysis/blob/main/images/MYSports%20-%20ERD.jpg" >
+
 **Queries:** </p>
 Queries used to create the database and to extract information from it
 
-**Database Design:** </p>
-Entity Relationship Design (ERD) and Enhanced Entity Relationship Design (EERD) for databases
+* [MySports - Queries](https://github.com/DougLink/DataAnalysis/tree/main/SQL/MySports)
+
