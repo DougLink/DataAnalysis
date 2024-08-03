@@ -40,3 +40,11 @@ Data visualisations that leverage context, attention focus and design concepts t
 
 * [Time to Close Deal Data - Visual Improvement](https://github.com/DougLink/DataAnalysis/blob/main/Excel/Time%20to%20Close%20Deal%20Data.xlsx)
 <img src="https://github.com/DougLink/DataAnalysis/blob/main/images/Time%20to%20Close%20Deal%20-%20Improved.jpg" >
+
+## SQL Databases:
+
+**Queries:** </p>
+Queries used to create the database and to extract information from it
+
+**Database Design:** </p>
+Entity Relationship Design (ERD) and Enhanced Entity Relationship Design (EERD) for databases
