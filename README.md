@@ -45,20 +45,19 @@ Data visualisations that leverage context, attention focus and design concepts t
 
 ## SQL Databases:
 
+**DB file and Queries:** </p>
+Database file and the queries used to create the database and to extract information from it
+
+* [Orinoco](https://github.com/DougLink/DataAnalysis/tree/main/SQL/Orinoco)
+* [MySports](https://github.com/DougLink/DataAnalysis/tree/main/SQL/MySports)
+
 **Database Design:** </p>
 Entity Relationship Design (ERD) for databases
-
-* MySports Database ERD </p>
-MySports is a sports equipment distributor, the database contains info on MySports' employees, customers, products and orders.
-<img src="https://github.com/DougLink/DataAnalysis/blob/main/images/MYSports%20-%20ERD.jpg" >
 
 * Orinoco Database ERD </p>
 Orinoco is an electronics retailer, the database contains info on Orinoco's products, shoppers, orders and sales representatives. A simple text-based UI application was created for this database [HERE](https://github.com/DougLink/Orinoco).
 <img src="https://github.com/DougLink/DataAnalysis/blob/main/images/Orinoco-ERD.jpg" >
 
-**DB file and Queries:** </p>
-Database file and the queries used to create the database and to extract information from it
-
-* [MySports - Queries](https://github.com/DougLink/DataAnalysis/tree/main/SQL/MySports)
-* [Orinoco - Queries](https://github.com/DougLink/DataAnalysis/tree/main/SQL/Orinoco)
-
+* MySports Database ERD </p>
+MySports is a sports equipment distributor, the database contains info on MySports' employees, customers, products and orders.
+<img src="https://github.com/DougLink/DataAnalysis/blob/main/images/MYSports%20-%20ERD.jpg" >
