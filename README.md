@@ -52,8 +52,8 @@ Entity Relationship Design (ERD) for databases
 * Orinoco Database ERD
 <img src="https://github.com/DougLink/DataAnalysis/blob/main/images/Orinoco-ERD.jpg" >
 
-**Queries:** </p>
-Queries used to create the database and to extract information from it
+**DB file and Queries:** </p>
+Database file and the queries used to create the database and to extract information from it
 
 * [MySports - Queries](https://github.com/DougLink/DataAnalysis/tree/main/SQL/MySports)
 * [Orinoco - Queries](https://github.com/DougLink/DataAnalysis/tree/main/SQL/Orinoco)
