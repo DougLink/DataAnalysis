@@ -11,7 +11,7 @@ Recent Graduate with a BSc in Computing.
 
 **Links:**
 * [LinkedIn](https://bit.ly/3pjKRMo)
-* [Excel Projects](#Excel Projects)
+* [Section `Excel Projects`](#Excel Projects)
 
 ## Excel Projects:
 
