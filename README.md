@@ -55,7 +55,7 @@ Database file and the queries used to create the database and to extract informa
 Entity Relationship Design (ERD) for databases
 
 * Orinoco Database ERD </p>
-Orinoco is an electronics retailer, the database contains info on Orinoco's products, shoppers, orders and sales representatives. A simple text-based UI application was created for this database [HERE](https://github.com/DougLink/Orinoco).
+Orinoco is an electronics retailer, the database contains info on Orinoco's products, shoppers, orders and sales representatives. [A simple text-based UI application using Python was created](https://github.com/DougLink/Orinoco).
 <img src="https://github.com/DougLink/DataAnalysis/blob/main/images/Orinoco-ERD.jpg" >
 
 * MySports Database ERD </p>
