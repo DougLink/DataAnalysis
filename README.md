@@ -48,11 +48,11 @@ Data visualisations that leverage context, attention focus and design concepts t
 **Database Design:** </p>
 Entity Relationship Design (ERD) for databases
 
-* MySports Database ERD
+* MySports Database ERD </p>
 MySports is a sports equipment distributor, the database contains info on MySports' employees, customers, products and orders.
 <img src="https://github.com/DougLink/DataAnalysis/blob/main/images/MYSports%20-%20ERD.jpg" >
 
-* Orinoco Database ERD
+* Orinoco Database ERD </p>
 Orinoco is an electronics retailer, the database contains info on Orinoco's products, shoppers, orders and sales representatives. A simple text-based UI application was created for this database [HERE](https://github.com/DougLink/Orinoco).
 <img src="https://github.com/DougLink/DataAnalysis/blob/main/images/Orinoco-ERD.jpg" >
 
