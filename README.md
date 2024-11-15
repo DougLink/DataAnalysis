@@ -21,10 +21,10 @@ Recent Graduate with a BSc in Computing.
 Dashboard solutions for data-driven business decisions 
 
 * [British Airways Ratings - Dashboard](https://public.tableau.com/views/BAReviews_17311637644780/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-<img src="https://github.com/DougLink/DataAnalysis/blob/main/images/Seattle%20AirBnB%20-%20Initial.png" >
+<img src="https://github.com/DougLink/DataAnalysis/blob/main/images/British%20Airways%20Reviews%20-%20Dashboard.png" >
 
 * [Seattle AirBnB Initial - Dashboard](https://public.tableau.com/views/SeattleAirBnB-InitialDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-<img src="https://github.com/DougLink/DataAnalysis/blob/main/images/British%20Airways%20Reviews%20-%20Dashboard.png" >
+<img src="https://github.com/DougLink/DataAnalysis/blob/main/images/Seattle%20AirBnB%20-%20Initial.png" >
 
 ## Excel Projects:
 
