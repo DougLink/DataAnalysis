@@ -11,16 +11,9 @@ Recent Graduate with a BSc in Computing.
 
 **Links:**
 * [LinkedIn](https://bit.ly/3pjKRMo)
+* [Tableau Projects](#tableau-projects)
 * [Excel Projects](#excel-projects)
 * [SQL Databases](#sql-databases)
-
-## Excel Projects:
-
-**Dashboards:** </p>
-Dashboard solutions for data-driven business decisions 
-
-* [Home Brew Sales - Dashboard](https://github.com/DougLink/DataAnalysis/blob/main/Excel/Coffee%20Shop%20Sales%20-%20Dashboard.xlsx)
-<img src="https://github.com/DougLink/DataAnalysis/blob/main/images/Home%20Brew%20Dashboard.jpg" >
 
 ## Tableau Projects:
 
@@ -32,6 +25,14 @@ Dashboard solutions for data-driven business decisions
 
 * [Seattle AirBnB Initial - Dashboard](https://public.tableau.com/views/SeattleAirBnB-InitialDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 <img src="https://github.com/DougLink/DataAnalysis/blob/main/images/British%20Airways%20Reviews%20-%20Dashboard.png" >
+
+## Excel Projects:
+
+**Dashboards:** </p>
+Dashboard solutions for data-driven business decisions 
+
+* [Home Brew Sales - Dashboard](https://github.com/DougLink/DataAnalysis/blob/main/Excel/Coffee%20Shop%20Sales%20-%20Dashboard.xlsx)
+<img src="https://github.com/DougLink/DataAnalysis/blob/main/images/Home%20Brew%20Dashboard.jpg" >
 
 **Improved Visualisations:** </p>
 Data visualisations that leverage context, attention focus and design concepts to tell a story
